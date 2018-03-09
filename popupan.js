@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://taylandatnenbinhtan.blogspot.com/';
+	var url_popup = 'http://www.24h.com.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
